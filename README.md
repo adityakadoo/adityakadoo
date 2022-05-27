@@ -15,7 +15,6 @@ I am an undergrad from IIT Bombay majoring in Computer Science. I love coding th
 ## Skills
 
 <code>
-<br>
 
 <div align=center style="zoom: 1.5;">
 <img src="https://img.shields.io/badge/-Python-70a5fd?style=flat&logo=python&logoColor=38bdae&labelColor=1a1b27">
@@ -52,13 +51,11 @@ I am an undergrad from IIT Bombay majoring in Computer Science. I love coding th
 <img src="https://img.shields.io/badge/-LaTeX-70a5fd?style=flat&logo=latex&logoColor=38bdae&labelColor=1a1b27">
 </div>
 
-<br>
 </code>
 
 ## Statistics
 
 <code>
-<br/>
 <p align="left">
   <img width="53.8%" src="https://github-readme-stats.vercel.app/api?username=adityakadoo&show_icons=true&hide_border=true&theme=tokyonight" />
     <img width="45.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakadoo&layout=compact&hide_border=true&theme=tokyonight" />

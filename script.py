@@ -23,7 +23,6 @@ I am an undergrad from IIT Bombay majoring in Computer Science. I love coding th
 ## Skills
 
 <code>
-<br>
 
 <div align=center style="zoom: 1.5;">'''
 # <div style="gap: 5px; display: flex; flex-wrap: row; justify-content: center;">'''
@@ -93,13 +92,11 @@ for index, item in enumerate(items):
 code += f'''
 </div>
 
-<br>
 </code>
 
 ## Statistics
 
 <code>
-<br/>
 <p align="left">
   <img width="53.8%" src="https://github-readme-stats.vercel.app/api?username=adityakadoo&show_icons=true&hide_border=true&theme=tokyonight" />
     <img width="45.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakadoo&layout=compact&hide_border=true&theme=tokyonight" />
