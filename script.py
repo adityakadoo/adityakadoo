@@ -1,14 +1,28 @@
-from random import shuffle, randint
+tokyonight = {
+    'title_color': "70a5fd",
+    'icon_color': "bf91f3",
+    'text_color': "38bdae",
+    'bg_color': "1a1b27",
+  }
 
 
-code = '''
-<h1 align="center">
-  <b>Aditya Kadoo</b>
-</h1>
+code = f'''
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, this is Aditya!
+
+I am an undergrad from IIT Bombay majoring in Computer Science. I love coding things from scratch. I even enjoy the designing, documenting and decorating parts of programming to the point where it feels like an OCD. Anyways, I am keenly interest in Data Science and Web Development.
+
+## Profiles
+
+[![LinkedIn: adityakadoo](https://img.shields.io/badge/-LinkedIn-{tokyonight["icon_color"]}?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor={tokyonight["bg_color"]}&link=https://www.linkedin.com/in/aditya-kadoo-513284222/)](https://www.linkedin.com/in/aditya-kadoo-513284222/)
+[![Github: adityakadoo](https://img.shields.io/badge/-Github-{tokyonight["icon_color"]}?style=for-the-badge&logo=github&logoColor=fff&labelColor={tokyonight["bg_color"]}&link=https://www.github.com/adityakadoo/)](https://www.github.com/adityakadoo/)
+[![Codeforces: adityakadoo](https://img.shields.io/badge/-Codeforces-{tokyonight["icon_color"]}?style=for-the-badge&logo=codeforces&logoColor=fff&labelColor={tokyonight["bg_color"]}&link=https://codeforces.com/profile/Addi.sama)](https://codeforces.com/profile/Addi.sama)
+[![Codechef: adityakadoo](https://img.shields.io/badge/-Codechef-{tokyonight["icon_color"]}?style=for-the-badge&logo=codechef&logoColor=fff&labelColor={tokyonight["bg_color"]}&link=https://www.codechef.com/users/aditya_kadoo)](https://www.codechef.com/users/aditya_kadoo)
+[![Mail: adityakadoo](https://img.shields.io/badge/-Mail-{tokyonight["icon_color"]}?style=for-the-badge&logo=gmail&logoColor=fff&labelColor={tokyonight["bg_color"]}&link=mailto:aditya1449kadoo@gmail.com)](mailto:aditya1449kadoo@gmail.com)
 
 
 ## Skills
 
+<code>
 <br>
 
 <div align=center style="zoom: 1.5;">'''
@@ -70,12 +84,6 @@ badges = {
 items = list(badges.items())
 n = len(items)
 
-tokyonight = {
-    'title_color': "70a5fd",
-    'icon_color': "bf91f3",
-    'text_color': "38bdae",
-    'bg_color': "1a1b27",
-  }
 for index, item in enumerate(items):
     skill, info = item
     # if index % 4 == 0:
@@ -86,19 +94,19 @@ code += f'''
 </div>
 
 <br>
+</code>
 
 ## Statistics
 
+<code>
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
   <img width="53.8%" src="https://github-readme-stats.vercel.app/api?username=adityakadoo&show_icons=true&hide_border=true&theme=tokyonight" />
     <img width="45.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakadoo&layout=compact&hide_border=true&theme=tokyonight" />
-  </a>
 </p>
-<br>
+</code>
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityakadoo&custom_title=adityakadoo's%20Contribution%20Graph&theme=tokyonight&bg_color={tokyonight["bg_color"]}&hide_border=true&line={tokyonight["text_color"]}&point={tokyonight["icon_color"]}&color={tokyonight["title_color"]})](https://adityakadoo.github.io/)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityakadoo&custom_title=adityakadoo's%20Contribution%20Graph&theme=tokyonight&bg_color={tokyonight["bg_color"]}&hide_border=true&line={tokyonight["text_color"]}&point={tokyonight["icon_color"]}&color={tokyonight["title_color"]})
 '''
 
 print(code)
