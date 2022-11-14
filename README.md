@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, this is Aditya!
 
-I am an undergrad from IIT Bombay majoring in Computer Science. I love coding things from scratch. I even enjoy the designing, documenting and decorating parts of programming to the point where it feels like an OCD. Anyways, I am keenly interest in Data Science and Web Development.
+I am an undergrad from IIT Bombay majoring in Computer Science. I love coding things.
 
 ## Profiles
 
