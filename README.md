@@ -20,5 +20,3 @@ I am an undergrad from IIT Bombay majoring in Computer Science. I love coding th
 </p>
 </code>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityakadoo&custom_title=adityakadoo's%20Contribution%20Graph&theme=tokyonight&bg_color=1a1b27&hide_border=true&line=38bdae&point=bf91f3&color=70a5fd)
-
